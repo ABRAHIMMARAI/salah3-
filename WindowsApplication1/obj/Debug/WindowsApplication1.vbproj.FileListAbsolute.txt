@@ -1,0 +1,28 @@
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Users\pc\documents\visual studio 2015\Projects\حاسبة بسيطة + متقدمة\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Users\pc\documents\visual studio 2015\Projects\حاسبة بسيطة + متقدمة\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Users\pc\documents\visual studio 2015\Projects\حاسبة بسيطة + متقدمة\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Users\pc\documents\visual studio 2015\Projects\حاسبة بسيطة + متقدمة\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Users\pc\documents\visual studio 2015\Projects\calculator simple + advanced\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
